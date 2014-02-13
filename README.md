@@ -60,3 +60,7 @@ or add donut chart to any element, e.g.
 5. Create new Pull Request
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/NikhilNanjappa/spicon/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
