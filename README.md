@@ -1,4 +1,6 @@
-# Spicon   [![Gem Version](https://badge.fury.io/gh/NikhilNanjappa%2Fspicon.png)](http://badge.fury.io/gh/NikhilNanjappa%2Fspicon)     [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/NikhilNanjappa/spicon/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+# Spicon   [![Gem Version](https://badge.fury.io/gh/NikhilNanjappa%2Fspicon.png)](http://badge.fury.io/gh/NikhilNanjappa%2Fspicon)     
+
+<!-- [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/NikhilNanjappa/spicon/trend.png)](https://bitdeli.com/free "Bitdeli Badge") -->
 
 
 > Cool feature that makes any element on your Rails application spin on mouseover. Hey
